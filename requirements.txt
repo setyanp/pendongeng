@@ -1,0 +1,4 @@
+langchain==0.0.193
+openai
+pydantic
+fastapi[all]
